@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-git-collab",
+    "name": "Git Collab",
+    "author": "Drosophilaa",
+    "authorUrl": "https://github.com/Drosophilaa",
+    "description": "Fetches the active notes uploaded to your Github repo.",
+    "isDesktopOnly": false,
+    "version": "0.1.0",
+    "minAppVersion": "0.1.0"
+  }
